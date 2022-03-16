@@ -19,7 +19,7 @@
 ## Types of Tests
 
 ### Unit Tests
-- Smallest pars of code (functions or classes)
+- Smallest parts of code (functions or classes)
 - Use Mocking
 
 ### Integration Tests
